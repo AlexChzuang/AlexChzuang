@@ -1,4 +1,4 @@
-### Hello, this is Alex Chuang! 👋 I'm new to the coding world, and keep going! 
+## Hello, this is Alex Chuang! 👋 I'm fresh off the boat to coding world, and still keep moving. 
 
 <!--
 **AlexChzuang/AlexChzuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
