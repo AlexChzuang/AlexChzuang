@@ -1,7 +1,6 @@
 ![typograssy](https://typograssy.vercel.app/api?text=Hello%20my%20name%20is%20Alex!&l0=050505&bg=0d0c0c)
 
-### Hi there, my name is Alex Chuang! 👋 
-### I'm fresh off the boat to coding world, and still keep moving. 
+### Hi there, you are now at Alex Chuang's GitHub page 👋 
 
 <!--
 **AlexChzuang/AlexChzuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
